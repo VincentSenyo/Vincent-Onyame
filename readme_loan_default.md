@@ -7,7 +7,8 @@ Quantization of FICO Scores:
 
 Develop a rating map that categorizes FICO scores into buckets.
 Optimize bucket boundaries to minimize mean squared error or maximize log-likelihood.
-Machine Learning Model for PD Prediction:
+
+**Machine Learning Model for PD Prediction:**
 
 Build a machine learning model using the categorized FICO scores to predict the probability of mortgage default.
 Ensure the model is adaptable for future data sets by using a general approach to bucket generation.
