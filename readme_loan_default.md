@@ -1,4 +1,5 @@
 **Mortgage Default Probability Prediction**
+
 This project aims to predict the probability of default (PD) for borrowers using FICO scores. FICO scores, which range from 300 to 850, are a standardized credit score used in 90% of mortgage application decisions in the United States. The task is to construct a technique for predicting PD by mapping FICO scores into categorical buckets, optimizing the boundaries to best summarize the data.
 
 Key Objectives:
